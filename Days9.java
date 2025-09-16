@@ -7,6 +7,7 @@ public class Days9 {
         angka = 56; // update angka
         System.out.println(angka);// angka yang tampil adalah yang kedua setelah di update yaitu 56
 
-        int nilai = 111006; // langsung mengisi nilai nya
+        int nilai = 111006; // inisialisasi langsung mengisi nilai nya
     }
 }
+
