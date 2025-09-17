@@ -6,6 +6,7 @@ public class Days11 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);// membuat objek scanner
 
+        //input akan di lakukan di console
         System.out.print("Nama : ");
         String nama = input.nextLine();
 
@@ -35,4 +36,5 @@ public class Days11 {
 
     }
 }
+
 
