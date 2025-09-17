@@ -33,16 +33,6 @@ public class Days11 {
         System.out.print("saya keren? ");
         boolean b = input.nextBoolean();
 
-
-        System.out.println("Nama : " + nama);
-        System.out.println("Umur : " + umur);
-        System.out.println("Dua digit terakhir NIM : " + nim);
-        System.out.println("No Sepatu : " + noSepatu);
-        System.out.println("Jarak rumah ke kampus : " + jarak + "KM");
-        System.out.println("Berat Badan : " + bb);
-        System.out.println("Tinggi Badan : " + tb);
-        System.out.println("Kelas : " + kls);
-        System.out.println("Saya Keren? " + b);
-
     }
 }
+
