@@ -11,7 +11,7 @@ public class Days20 {
         String s3 = String.valueOf(b);
 
         System.out.println("int ke String: " + s1);
-        System.out.println("double ke String: " + s2);
+        System.out.println("float ke String: " + s2);
         System.out.println("boolean ke String: " + s3);
     }
 }
