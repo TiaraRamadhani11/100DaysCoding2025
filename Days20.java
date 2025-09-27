@@ -3,7 +3,7 @@ package TiaraRamadhani;
 public class Days20 {
     public static void main(String[] args) {
         int angka1 = 11;
-        float angka2= 10;
+        float angka2= 10f;
         boolean b = true;
 
         String s1 = String.valueOf(angka1);
