@@ -1,6 +1,6 @@
 package TiaraRamadhani;
 
-public class Days1 {
+public class Days24{
     public static void main(String[] args) { 
       double r = 11;
       double phi = 3.14;
