@@ -1,6 +1,6 @@
 package TiaraRamadhani;
 
-public class Days28 {
+public class Days29 {
     public static void main(String[] args) {
         //operator perbandingan < dan >
         int angka1 = 11;
