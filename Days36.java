@@ -14,10 +14,11 @@ public class Days36 {
             if (suhu <= 37){
                 System.out.println("Anda Boleh Masuk");
             }else {
-                System.out.println("Dilarang masuk! suhu tubuh anda tunggi");
+                System.out.println("Dilarang masuk! suhu tubuh anda tinggi");
             }
         }else{
             System.out.println("Umur tidak mencukupi");
         }
     }
 }
+
