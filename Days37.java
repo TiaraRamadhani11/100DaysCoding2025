@@ -1,6 +1,5 @@
 package TiaraRamadhani;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class Days37 {
@@ -16,3 +15,4 @@ public class Days37 {
         }
     }
 }
+
