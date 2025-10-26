@@ -1,7 +1,7 @@
 package TiaraRamadhani;
 
 import java.util.Scanner;
-public class days47 {
+public class Days47 {
     public static void main(String[] args) {
         Scanner tr = new Scanner(System.in);
         System.out.print("Masukan angka (1-7) :");
