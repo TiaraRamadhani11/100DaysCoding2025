@@ -11,7 +11,7 @@ public class Days55 {
         System.out.println("Batas atas  : ");
         int ba = tr.nextInt();
         System.out.println("Angka : ");
-        int angka = juni.nextInt();
+        int angka = tr.nextInt();
 
 
         if(angka > bw && angka < ba){
