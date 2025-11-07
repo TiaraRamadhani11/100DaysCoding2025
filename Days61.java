@@ -1,0 +1,21 @@
+package TiaraRamadhani;
+
+import java.util.Scanner;
+public class Days61 {
+    public static void main(String[] args) {
+        Scanner tr = new Scanner(System.in);
+
+        System.out.print("Masukkan nilai N: ");
+        int N = tr.nextInt();
+        System.out.print("Masukkan nilai M: ");
+        int M = tr.nextInt();
+
+        System.out.println("Bilangan kelipatan " + M + " dari 1 sampai " + N + " adalah:");
+        for (int i = 1; i <= N; i++) {
+            if (i % M == 0) {
+                System.out.print(i + " ");
+            }
+        }
+    }
+}
+
