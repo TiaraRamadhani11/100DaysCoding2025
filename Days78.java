@@ -2,7 +2,7 @@ package TiaraRamadhani;
 
 public class Days78 {
     public static void main(String[] args) {
-        String teks = "apalah"
+        String teks = "apalah";
 
         System.out.println("\n--- HASIL ---");
       
