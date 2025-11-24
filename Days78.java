@@ -16,7 +16,7 @@ public class Days78 {
         System.out.println("Teks lowercase: " + teks.toLowerCase());
 
         // 4. contains()
-        System.out.println("Apakah mengandung kata 'java'? " + teks.contains("saya"));
+        System.out.println("Apakah mengandung kata 'saya'? " + teks.contains("saya"));
 
         // 5. isEmpty()
         System.out.println("Apakah teks kosong? " + teks.isEmpty());
