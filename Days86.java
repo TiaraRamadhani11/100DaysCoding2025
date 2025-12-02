@@ -11,6 +11,6 @@ public class Days86{
                 min = angka[i];
             }
         }
-        System.out.println("Angka maksimal adalah: " + min);
+        System.out.println("Angka min adalah: " + min);
     }
 }
